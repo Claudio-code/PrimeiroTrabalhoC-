@@ -6,7 +6,13 @@ namespace exercicio4
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var processandoString = new ProcessadoString();            
+            
+            Console.WriteLine("digite uma palavra para retirar as vogais \n");
+            
+            var palavra = Console.ReadLine();
+
+            Console.WriteLine(processandoString.retirarVogais(palavra));
         }
     }
 }

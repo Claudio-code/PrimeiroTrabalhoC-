@@ -1,0 +1,11 @@
+/home/claudio/Documents/study/PrimeiroTrabalhoCSharp/exercicio4/obj/Debug/netcoreapp3.1/exercicio4.csprojAssemblyReference.cache
+/home/claudio/Documents/study/PrimeiroTrabalhoCSharp/exercicio4/obj/Debug/netcoreapp3.1/exercicio4.AssemblyInfoInputs.cache
+/home/claudio/Documents/study/PrimeiroTrabalhoCSharp/exercicio4/obj/Debug/netcoreapp3.1/exercicio4.AssemblyInfo.cs
+/home/claudio/Documents/study/PrimeiroTrabalhoCSharp/exercicio4/bin/Debug/netcoreapp3.1/exercicio4
+/home/claudio/Documents/study/PrimeiroTrabalhoCSharp/exercicio4/bin/Debug/netcoreapp3.1/exercicio4.deps.json
+/home/claudio/Documents/study/PrimeiroTrabalhoCSharp/exercicio4/bin/Debug/netcoreapp3.1/exercicio4.runtimeconfig.json
+/home/claudio/Documents/study/PrimeiroTrabalhoCSharp/exercicio4/bin/Debug/netcoreapp3.1/exercicio4.runtimeconfig.dev.json
+/home/claudio/Documents/study/PrimeiroTrabalhoCSharp/exercicio4/bin/Debug/netcoreapp3.1/exercicio4.dll
+/home/claudio/Documents/study/PrimeiroTrabalhoCSharp/exercicio4/bin/Debug/netcoreapp3.1/exercicio4.pdb
+/home/claudio/Documents/study/PrimeiroTrabalhoCSharp/exercicio4/obj/Debug/netcoreapp3.1/exercicio4.dll
+/home/claudio/Documents/study/PrimeiroTrabalhoCSharp/exercicio4/obj/Debug/netcoreapp3.1/exercicio4.pdb
