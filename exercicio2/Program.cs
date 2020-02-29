@@ -6,7 +6,12 @@ namespace exercicio2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var tratarString = new TratarString();
+            Console.WriteLine("Digite uma palavra");
+         
+            var palavra = Console.ReadLine();
+         
+            Console.WriteLine(tratarString.contarVogais(palavra));
         }
     }
 }
