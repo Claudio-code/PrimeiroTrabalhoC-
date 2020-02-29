@@ -8,7 +8,11 @@ namespace exercicio3
         {
             var processandoString = new ProcessadoString();            
             
-            Console.WriteLine(processandoString.retirarVogais("casa"));
+            Console.WriteLine("digite uma palavra para retirar as consolantes \n");
+            
+            var palavra = Console.ReadLine();
+
+            Console.WriteLine(processandoString.retirarVogais(palavra));
         }
     }
 }
